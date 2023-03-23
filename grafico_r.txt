@@ -8,3 +8,5 @@ df = data.frame(x, y)
 
 ggplot()+
   geom_point(aes(x, y))
+
+modificação do gráfico
